@@ -1,0 +1,11 @@
+{
+  "name": "cards-example",
+  "version": "1.0.0",
+  "description": "Cards example",
+  "dependencies": {
+    "express": "^4.12.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
